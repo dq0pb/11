@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../#8/.idea/#8.iml" filepath="$PROJECT_DIR$/../#8/.idea/#8.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hw-netology.iml" filepath="$PROJECT_DIR$/.idea/hw-netology.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../krlb/.idea/krlb.iml" filepath="$PROJECT_DIR$/../krlb/.idea/krlb.iml" />
       <module fileurl="file:////wsl$/Ubuntu/home/ubuntu4i/projects/.idea/projects.iml" filepath="//wsl$/Ubuntu/home/ubuntu4i/projects/.idea/projects.iml" />
     </modules>
   </component>
